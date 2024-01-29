@@ -1,5 +1,5 @@
 # Power_Bi_Ecommerce_Sales_DataAnalyticsProject
-Objective: Owner of Paul's Store wants us to help them create a dashboard to track and analyze their online sales across India.
+Objective: Owner of Sharma's Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 Project overview:
 • Created interactive dashboard to track and analyze online sales data
